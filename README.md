@@ -1,5 +1,5 @@
 # -Aave-Vault-Safety
- Aave Vault
+ Aave Vault (safety upgrade)
 
 An ERC-4626 vault which allows users to deposit/withdraw ERC-20 tokens supported by Aave v3, manages the supply and withdrawal of these assets in Aave, and allows a vault manager to take a fee on yield earned.
 Instructions
